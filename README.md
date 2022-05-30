@@ -27,7 +27,24 @@
 - [Goorm ide](ide.goorm.io)
 
 <br/>
+
+## 🌅 PREVIEW
+![1](https://user-images.githubusercontent.com/9810848/170944188-835071fe-c53e-4d08-9ae7-fe9c18665a7b.jpg)  
+
+![4](https://user-images.githubusercontent.com/9810848/170944179-b9c221a5-a991-483e-8475-31e39f5cf139.jpg)  
+
+![2](https://user-images.githubusercontent.com/9810848/170944189-ccfdb94d-6098-47ee-a31e-4683243755ce.jpg)  
+
+![3](https://user-images.githubusercontent.com/9810848/170944170-621085bc-3d04-4ef0-acde-05b52885ba91.jpg)  
+
+![5](https://user-images.githubusercontent.com/9810848/170944184-91e69d23-b269-4ae7-934e-fd2e364ddff2.jpg)  
+
+![6](https://user-images.githubusercontent.com/9810848/170944186-24fb6ddb-a255-4391-986a-ca1d271937f5.jpg)  
+
+
+
 <!--
+<br/>
 ## 🚀 RUN
 config폴더와 구글 api폴더는 ignore됨
 -->
